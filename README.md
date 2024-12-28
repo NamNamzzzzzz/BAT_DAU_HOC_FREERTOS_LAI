@@ -1,1 +1,1 @@
-Tap hoc FreeRtos lai tu dau. Day la bai Queue va xQueue
+Tập học FreeRtos lại từ đầu. Đây là phần về Queue và các bài tập từ cơ bản nhất đến "nâng cao" được "giảng dạy" bởi GPT o1, cùng với các tài liệu liên quan. Ở đây sẽ được cập nhật toàn bộ bài theo từng ngày học của bản thân mình về FreeRtos xem mình sẽ tiến bộ như nào qua thời gian
