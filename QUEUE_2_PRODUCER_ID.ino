@@ -2,7 +2,7 @@
 #define PW_PIN 19
 #define SS_PIN 15
 
-//Cai nay danh cho HC-SR04
+//Cai nay danh cho HC-SR04 
 #define trig 5
 #define echo 18
 #define SOUND_SPEED 0.034
